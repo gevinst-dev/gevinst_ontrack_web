@@ -1,0 +1,18 @@
+{
+    "name": "codeniner/ontrack",
+    "type": "project",
+    "license": "Envato Standard",
+    "authors": [
+        {
+            "name": "Codeniner",
+            "email": "hello@codeniner.com"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^8.0",
+        "php-imap/php-imap": ">4.1 <5.0",
+        "ezyang/htmlpurifier": "^4.13",
+        "phpoffice/phpspreadsheet": "^1.18",
+        "studio-42/elfinder": "^2.1"
+    }
+}

@@ -1,0 +1,2 @@
+tag,name,client,location,status,category,supplier,manufacturer,model,purchase_date,warranty_expiration_date,serial_number
+QW-123,MacBook Air 2020 M1,Demo Client,Office,Active,Laptops,Amazon,Apple,MacBook Air 2020 M1,2022-08-25,2023-08-25,MBA123456789
